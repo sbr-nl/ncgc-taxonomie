@@ -4,7 +4,7 @@ on:
   push:
 
 env:
-  TAX_NAME: ncgc_taxonomy_2024
+  TAX_NAME: ncgc_taxonomy_2022
 
 jobs:
   build_and_ping:
