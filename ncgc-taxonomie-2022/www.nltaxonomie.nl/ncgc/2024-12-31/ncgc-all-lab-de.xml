@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="ncgc_TheGeneralMeetingOfShareholdersTitle_label_de" xlink:label="ncgc_TheGeneralMeetingOfShareholdersTitle_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="de">Die (allgemeine) Hauptversammlung</link:label>
+    <link:label id="ncgc_ComplianceWithTheCodeTitle_label_de" xlink:label="ncgc_ComplianceWithTheCodeTitle_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="de">Einhaltung des Kodex</link:label>
+    <link:label id="ncgc_LongTermValueTitle_label_de" xlink:label="ncgc_LongTermValueTitle_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="de">Langfristige Wertschöpfung</link:label>
+    <link:label id="ncgc_DutchCorporateGovernanceCodeTitle_label_de" xlink:label="ncgc_DutchCorporateGovernanceCodeTitle_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="de">Niederländische Corporate-Governance-Richtlinie</link:label>
+    <link:label id="ncgc_RemunerationTitle_label_de" xlink:label="ncgc_RemunerationTitle_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="de">Vergütungen</link:label>
+    <link:label id="ncgc_EffectivenessOfManagementAndSupervisionTitle_label_de" xlink:label="ncgc_EffectivenessOfManagementAndSupervisionTitle_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="de">Wirksamkeit der Verwaltung und Überwachung</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="ncgc_ComplianceWithTheCodeTitle_loc" xlink:to="ncgc_ComplianceWithTheCodeTitle_label_de" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="ncgc_DutchCorporateGovernanceCodeTitle_loc" xlink:to="ncgc_DutchCorporateGovernanceCodeTitle_label_de" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="ncgc_EffectivenessOfManagementAndSupervisionTitle_loc" xlink:to="ncgc_EffectivenessOfManagementAndSupervisionTitle_label_de" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="ncgc_LongTermValueTitle_loc" xlink:to="ncgc_LongTermValueTitle_label_de" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="ncgc_RemunerationTitle_loc" xlink:to="ncgc_RemunerationTitle_label_de" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="ncgc_TheGeneralMeetingOfShareholdersTitle_loc" xlink:to="ncgc_TheGeneralMeetingOfShareholdersTitle_label_de" xlink:type="arc"/>
+    <link:loc xlink:href="ncgc-all.xsd#ncgc_ComplianceWithTheCodeTitle" xlink:label="ncgc_ComplianceWithTheCodeTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="ncgc-all.xsd#ncgc_DutchCorporateGovernanceCodeTitle" xlink:label="ncgc_DutchCorporateGovernanceCodeTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="ncgc-all.xsd#ncgc_EffectivenessOfManagementAndSupervisionTitle" xlink:label="ncgc_EffectivenessOfManagementAndSupervisionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="ncgc-all.xsd#ncgc_LongTermValueTitle" xlink:label="ncgc_LongTermValueTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="ncgc-all.xsd#ncgc_RemunerationTitle" xlink:label="ncgc_RemunerationTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="ncgc-all.xsd#ncgc_TheGeneralMeetingOfShareholdersTitle" xlink:label="ncgc_TheGeneralMeetingOfShareholdersTitle_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

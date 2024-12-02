@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tp:taxonomyPackage xml:lang="nl" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
+	<tp:identifier>https://www.nltaxonomie.nl/ncgc/2024-12-31</tp:identifier>
+	<tp:name>Nederlandse Corporate Governance Code 2022</tp:name>
+	<tp:description>XBRL taxonomie van de Nederlandse Corporate Governance Code 2022</tp:description>
+	<tp:version>31 december 2024</tp:version>
+	<tp:publisher>Monitoring Commissie Corporate Governance Code</tp:publisher>
+	<tp:publisherURL>https://www.nltaxonomie.nl/ncgc</tp:publisherURL>
+	<tp:publisherCountry>NL</tp:publisherCountry>
+	<tp:publicationDate>2024-12-31</tp:publicationDate>
+	<tp:entryPoints>
+		<tp:entryPoint>
+			<tp:name>Nederlandse Corporate Governance Code 2022 - Core</tp:name>
+			<tp:description>Core schema van de Nederlandse Corporate Governance Code 2022</tp:description>
+			<tp:entryPointDocument href="https://www.nltaxonomie.nl/ncgc/2024-12-31/ncgc-cor.xsd" />
+		</tp:entryPoint>
+		<tp:entryPoint>
+			<tp:name>Nederlandse Corporate Governance Code 2022 - All</tp:name>
+			<tp:description>All schema van elementen in de Nederlandse Corporate Governance Code 2022</tp:description>
+			<tp:entryPointDocument href="https://www.nltaxonomie.nl/ncgc/2024-12-31/ncgc-all.xsd" />
+		</tp:entryPoint>
+	</tp:entryPoints>
+</tp:taxonomyPackage>
